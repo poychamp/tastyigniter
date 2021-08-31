@@ -3,5 +3,4 @@
 .htaccess
 .env
 .phpunit.result.cache
-
 /vendor
